@@ -1,0 +1,1 @@
+This is a project of our team for competitioning in Think Eco. Even though it works and got a first prize however it is completely un-optimized and some of code is abundant. I hope that in the future after learning ML properly., i can get this project much better using LSTM or GRU for predicting the time (maybe). Hope u enjoy 
